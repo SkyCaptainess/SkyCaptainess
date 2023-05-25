@@ -46,13 +46,13 @@ Together, let us wield the forces of innovation, breathe life into fantastical d
   <br/>
   
 
-<h2 font-weight="bold">Major Skills</h2>
+<h2 font-weight="bold">Strengths Skills</h2>
 <img src="https://skillicons.dev/icons?i=react,next,vue,angular,tailwind,figma,sass,materialui,ai,photoshop" width="100%">
 <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,php,androidstudio,redux,laravel,mysql,mongodb,postgresql" width="100%">
   
   <br/>
   
-<h2 font-weight="bold">Detail Skills</h2>
+<h2 font-weight="bold">All of My Skills</h2>
 
 <h4>Programming Languages</h4>
   <p align="left">
