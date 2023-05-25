@@ -144,17 +144,17 @@
 <br/>
 
 <div align='center'>
-  <img alt="stats" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyCaptainess&layout=compact&langs_count=7&theme=dark">
+  <img alt="stats" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyCaptainess&layout=compact&langs_count=7&theme=dark">
   <a href="#">
     <img  src="https://github-profile-trophy.vercel.app/?username=SkyCaptainess&theme=darkhub&row=1&column=6" alt="trophy">
   </a>
   <br/>
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dark&preferLogin=false">
-    <img height="180em" alt="SkyCaptainess's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/SkyCaptainess?cardType=github&theme=dark&preferLogin=false" />
+    <img height="150em" alt="SkyCaptainess's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/SkyCaptainess?cardType=github&theme=dark&preferLogin=false" />
   </a>
 
   <a href="https://git.io/streak-stats">
-    <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=SkyCaptainess&theme=dark" alt="GitHub Streak">
+    <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=SkyCaptainess&theme=dark" alt="GitHub Streak">
   </a>
 
   
