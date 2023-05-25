@@ -46,15 +46,15 @@ Together, let us wield the forces of innovation, breathe life into fantastical d
   <br/>
   
 
-<h2 font-weight="bold">Strengths Skills</h2>
+<h2 font-weight="bold">💪 Strengths Skills</h2>
 <img src="https://skillicons.dev/icons?i=react,next,vue,angular,tailwind,figma,sass,materialui,ai,photoshop" width="100%">
 <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,php,androidstudio,redux,laravel,mysql,mongodb,postgresql" width="100%">
   
   <br/>
   
-<h2 font-weight="bold">All of My Skills</h2>
+<h2 font-weight="bold">👍 All of My Skills</h2>
 
-<h4>Programming Languages</h4>
+<h4>⚡ Programming Languages</h4>
   <p align="left">
   <img height='25em' src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img height='25em' src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -68,7 +68,7 @@ Together, let us wield the forces of innovation, breathe life into fantastical d
   <img height='25em' src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" />
  </p>
 
-<h4>Frontend Development</h4>
+<h4>⚡ Frontend Development</h4>
   <p align="left">
     <img height='25em' src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img height='25em' src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -91,7 +91,7 @@ Together, let us wield the forces of innovation, breathe life into fantastical d
     <img height='25em' src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
   </p>
 
-<h4>Backend Development</h4>
+<h4>⚡ Backend Development</h4>
   <p align="left">
     <img height='25em' src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
     <img height='25em' src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -110,7 +110,7 @@ Together, let us wield the forces of innovation, breathe life into fantastical d
     <img height='25em' src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
   </p>  
   
-<h4>Other</h4>  
+<h4>⚡ Other</h4>  
   <p align="left">
     <img height='25em' src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     <img height='25em' src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
