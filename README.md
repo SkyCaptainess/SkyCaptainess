@@ -1,3 +1,29 @@
+<h2>🎩✨ Step into the realm of digital enchantment!<br/>
+I am Sky Captainess, a masterful sorcerer of frontend wizardry and full stack alchemy. Prepare to be spellbound as we embark on a magical journey through the realms of web development! ✨🌟</h2>
+
+With a flick of my code-infused wand and a dash of whimsical imagination, I have honed my craft as a virtuoso of frontend sorcery and a conjurer of full stack marvels for over 8 enchanting years. 
+From the mystical realms of HTML, CSS, and JavaScript to the enchanting depths of React, Tailwind, Typescript, I've mastered the art of crafting spellbinding user interfaces.
+I create bewitching incantations that transform ordinary websites into mesmerizing experiences that leave users awe-inspired.
+
+But my arcane abilities don't stop there! With a cauldron of backend sorcery, I wield the mystical forces of Node, Express, Django, Ruby on Rails, Laravel, Go, concocting powerful potions of functionality and weaving intricate spells that ensure seamless interactions and bewitching performance.
+
+Throughout my mystical quest, I have partnered with noble startups and grand kingdoms of enterprise, breathing life into ethereal concepts and manifesting digital wonders. Together with my allies, I have battled the dark forces of bugs, unravelled the mysteries of complex architectures, and witnessed the birth of enchanting realms that capture the imagination.
+
+Beyond the realms of coding magic, I traverse the mystical bridge between design and development. With an artist's eye and a wizard's touch, I blend colors and shapes, forging captivating interfaces that dance gracefully across screens of all sizes. Every line of code I craft is an enchanting symphony, meticulously composed to delight the senses and invite users into a world of digital enchantment.
+
+Driven by an insatiable thirst for knowledge, I embark on quests of continuous learning, exploring hidden realms of frontend sorcery and embracing the arcane secrets of emerging technologies. I am a seeker of the extraordinary, forever enchanted by the ever-evolving tapestry of the web.
+
+
+Now, wanderer of the digital realms, venture forth into the magical gallery of my portfolio below. Behold the spells I have cast, the mythical creatures I have tamed, and the realms I have conjured. Should you seek a magical collaboration, desire to unlock the secrets of the digital universe, or simply wish to connect with a kindred spirit, I eagerly await your presence!
+
+Together, let us wield the forces of innovation, breathe life into fantastical dreams, and shape a digital landscape that resonates with wonder and awe!
+
+🔮 Portfolio: [Your Portfolio Website]
+✉️ Email: [Your Email Address]
+🌟 LinkedIn: [Your LinkedIn Profile]
+
+
+
 
 <!-- 
 <div align="center">
