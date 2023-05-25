@@ -144,7 +144,7 @@
 <br/>
 
 <div align='center'>
-  <img alt="stats" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyCaptainess&layout=compact&langs_count=7&theme=dark">
+  <img alt="stats" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyCaptainess&layout=compact&langs_count=7&theme=dark">
   <a href="#">
     <img  src="https://github-profile-trophy.vercel.app/?username=SkyCaptainess&theme=darkhub&row=1&column=6" alt="trophy">
   </a>
@@ -160,17 +160,6 @@
   
 </div>
 
-
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SkyCaptainess&theme=dark)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SkyCaptainess&theme=darkhub&row=2&column=3)](#) -->
-<!-- 
-<div align="center">
-  <a href="https://github.com/SkyCaptainess">
-  <img alt="stats" height="160em" src="https://github-readme-stats.vercel.app/api?username=SkyCaptainess&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img alt="stats" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyCaptainess&layout=compact&langs_count=7&theme=dark">
-</div>
-   -->
   
 <div style="display: inline_block"><br>
   <img align="right" alt="Bruna-pic" height="150" style="border-radius:50px;"
@@ -180,8 +169,6 @@
   
   
   
-   ##
- 
  
 
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andychris9474@gmail.com)
