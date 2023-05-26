@@ -13,12 +13,13 @@ With a wave of my code-infused wand, I breathe life into captivating user interf
 
 But my sorcery doesn't end there! I possess the mystical knowledge of backend alchemy, wielding the potent forces of Node.js, Express, Django, Ruby on Rails, Laravel, and more. With these powers, I create robust functionalities and seamless interactions that leave users mesmerized.
   
-Step into the magical realm of my portfolio, where you'll witness the spells I've cast and the captivating wonders I've crafted. Whether you seek a magical collaboration, wish to unlock the secrets of the digital universe, or simply desire to connect with a kindred spirit, I eagerly await your presence!
 </p>
-
+<br/>
+<br/>
 <img align="right" width="300" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
 <p>
-
+Step into the magical realm of my portfolio, where you'll witness the spells I've cast and the captivating wonders I've crafted. Whether you seek a magical collaboration, wish to unlock the secrets of the digital universe, or simply desire to connect with a kindred spirit, I eagerly await your presence!
+  
 Together, let's shape a digital landscape that radiates with wonder and awe!
 </p>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=SkyCaptainess.SkyCaptainess" />
