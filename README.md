@@ -49,16 +49,16 @@ Together, let's shape a digital landscape that radiates with wonder and awe!
 <img  width="50" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" />
 </h1>
 
-<h3 font-weight="bold">🏅 Strengths Skills 🎩</h3>
+<h2 font-weight="bold">🏅 Strengths Skills 🎩</h2>
 <img src="https://skillicons.dev/icons?i=react,next,vue,angular,tailwind,figma,sass,materialui,ai,photoshop" width="100%">
 <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,php,androidstudio,redux,laravel,mysql,mongodb,postgresql" width="100%">
   
   <br/>
   
 
-<h3 font-weight="bold">📜 All of Skills ⚔️</h3>
+<h2 font-weight="bold">📜 All of Skills ⚔️</h2>
 
-<h4>👉 Programming Languages 👩‍💻</h4>
+<h3>👉 Programming Languages 👩‍💻</h3>
   <p align="left">
   <img height='25em' src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img height='25em' src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -72,7 +72,7 @@ Together, let's shape a digital landscape that radiates with wonder and awe!
   <img height='25em' src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" />
  </p>
 
-<h4>👉 Frontend Development 💻</h4>
+<h3>👉 Frontend Development 💻</h3>
   <p align="left">
     <img height='25em' src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img height='25em' src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -95,7 +95,7 @@ Together, let's shape a digital landscape that radiates with wonder and awe!
     <img height='25em' src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
   </p>
 
-<h4>👉 Backend Development ⚙️</h4>
+<h3>👉 Backend Development ⚙️</h3>
   <p align="left">
     <img height='25em' src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
     <img height='25em' src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -114,7 +114,7 @@ Together, let's shape a digital landscape that radiates with wonder and awe!
     <img height='25em' src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
   </p>  
   
-<h4>👉 Other 🧰️</h4>  
+<h3>👉 Other 🧰️</h3>  
   <p align="left">
     <img height='25em' src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     <img height='25em' src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
