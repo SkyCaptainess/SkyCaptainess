@@ -130,6 +130,9 @@ Together, let's shape a digital landscape that radiates with wonder and awe!
 
 <br/>
 
+
+<h2 font-weight="bold">📊 My Github Stats 🏆</h2>
+
 <div align='center'>
   <img alt="stats" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyCaptainess&layout=compact&langs_count=7&theme=dark">
   <a href="#">
@@ -157,7 +160,7 @@ Together, let's shape a digital landscape that radiates with wonder and awe!
    </br>
 </details>
 
-  
+
 <div style="display: inline_block"><br>
   <img align="right" alt="Bruna-pic" height="150" style="border-radius:50px;"
     src="https://media.discordapp.net/attachments/903018166219866122/982029010697609296/unknown.png">
@@ -167,6 +170,11 @@ Together, let's shape a digital landscape that radiates with wonder and awe!
   
   
  
+
+<h2 font-weight="bold">
+  📮 How to reach me
+  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" />
+</h2>
 
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andychris9474@gmail.com)
 [![image](https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/)
