@@ -179,7 +179,7 @@ Together, let's shape a digital landscape that radiates with wonder and awe!
 </h1>
 
 <p align='center'>
-  <a href="mailto:andychris9474@gmail.com">
+  <a target="_blank" href="mailto:andychris9474@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 <!--   <a href="https://www.linkedin.com/">
@@ -188,7 +188,7 @@ Together, let's shape a digital landscape that radiates with wonder and awe!
 <!--   <a href="https://discord.com/users/">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a> -->
-  <a href="https://join.skype.com/invite/xFblvPXgmTM8">
+  <a target="_blank" href="https://join.skype.com/invite/xFblvPXgmTM8">
     <img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
   </a>
 <!--   <a href="https://t.me">
