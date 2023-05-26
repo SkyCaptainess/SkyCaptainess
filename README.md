@@ -137,8 +137,8 @@ Together, let's shape a digital landscape that radiates with wonder and awe!
     <img  src="https://github-profile-trophy.vercel.app/?username=SkyCaptainess&theme=darkhub&row=1&column=6" alt="trophy">
   </a>
   <br/>
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dark&preferLogin=false">
-    <img height="150em" alt="SkyCaptainess's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/SkyCaptainess?cardType=github&theme=dark&preferLogin=false" />
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dark&preferLogin=false">
+    <img height="150em" alt="SkyCaptainess's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/SkyCaptainess?cardType=level&theme=dark&preferLogin=false" />
   </a>
 
   <a href="https://git.io/streak-stats">
