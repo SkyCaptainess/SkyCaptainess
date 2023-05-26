@@ -50,7 +50,9 @@ Together, let's shape a digital landscape that radiates with wonder and awe!
   
   <br/>
   
-<h2 font-weight="bold">👍 All of My Skills</h2>
+  
+ <img align="left" width="50" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" />
+<h2 font-weight="bold"> All of My Skills</h2>
 
 <h4>⚡ Programming Languages</h4>
   <p align="left">
@@ -142,9 +144,19 @@ Together, let's shape a digital landscape that radiates with wonder and awe!
   <a href="https://git.io/streak-stats">
     <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=SkyCaptainess&theme=dark" alt="GitHub Streak">
   </a>
-
-  
 </div>
+<details>
+   <summary><b>:rocket: &nbsp;Github stats Detailed</b></summary>
+   </br>
+    <div align='center'>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SkyCaptainess&theme=dark" alt="Profile Details">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SkyCaptainess&theme=dark" alt="Repos per Language">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SkyCaptainess&theme=dark" alt="Most Commit Language">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SkyCaptainess&theme=dark" alt="Stats">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SkyCaptainess&theme=dark&utcOffset=8" alt="Productive Time">
+    </div>
+   </br>
+</details>
 
   
 <div style="display: inline_block"><br>
