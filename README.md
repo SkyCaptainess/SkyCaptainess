@@ -1,7 +1,3 @@
-
-
-
-
 <h2 align="center" font-weight="bold">
 🌟✨ Welcome to the realm of digital enchantment! ✨🌟 <br/> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">I am Sky Captainess, a masterful sorcerer of FRONT-END magic and FULL-STACK alchemy. Prepare to be spellbound as we embark on an extraordinary journey through the realms of web development! 
 </h2>
@@ -59,7 +55,7 @@ Together, let's shape a digital landscape that radiates with wonder and awe!
 <h2 font-weight="bold">📜 All of Skills ⚔️</h2>
 
 <h3>👉 Programming Languages 👩‍💻</h3>
-  <p align="left">
+  <p align="center">
   <img height='25em' src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img height='25em' src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img height='25em' src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -73,7 +69,7 @@ Together, let's shape a digital landscape that radiates with wonder and awe!
  </p>
 
 <h3>👉 Frontend Development 💻</h3>
-  <p align="left">
+  <p align="center">
     <img height='25em' src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img height='25em' src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
     <img height='25em' src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
@@ -96,7 +92,7 @@ Together, let's shape a digital landscape that radiates with wonder and awe!
   </p>
 
 <h3>👉 Backend Development ⚙️</h3>
-  <p align="left">
+  <p align="center">
     <img height='25em' src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
     <img height='25em' src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
     <img height='25em' src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
@@ -115,7 +111,7 @@ Together, let's shape a digital landscape that radiates with wonder and awe!
   </p>  
   
 <h3>👉 Other 🧰️</h3>  
-  <p align="left">
+  <p align="center">
     <img height='25em' src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     <img height='25em' src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
     <img height='25em' src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
