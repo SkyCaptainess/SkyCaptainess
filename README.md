@@ -5,7 +5,7 @@
 <h2 align="center" font-weight="bold">
 🌟✨ Welcome to the realm of digital enchantment! ✨🌟 <br/> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">I am Sky Captainess, a masterful sorcerer of frontend magic and full stack alchemy. Prepare to be spellbound as we embark on an extraordinary journey through the realms of web development! 
 </h2>
-  
+  <h2>🧙‍♀️ About Me</h2>
 <img align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
 <p>
 With a wave of my code-infused wand, I breathe life into captivating user interfaces, conjuring immersive experiences that transcend the ordinary. As a maestro of frontend sorcery, I command the languages of HTML, CSS, and JavaScript with virtuosity, while harnessing the enchanting powers of React, Vue, Angular, Tailwind, Sass, Typescript and more.
@@ -43,17 +43,19 @@ Together, let's shape a digital landscape that radiates with wonder and awe!
   <br/>
   
 
-<h2 font-weight="bold">💪 Strengths Skills</h2>
+<img align="left" width="50" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" />
+<h2 font-weight="bold"> My Skills</h2>
+
+<h3 font-weight="bold">🏅💪 Strengths Skills</h3>
 <img src="https://skillicons.dev/icons?i=react,next,vue,angular,tailwind,figma,sass,materialui,ai,photoshop" width="100%">
 <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,php,androidstudio,redux,laravel,mysql,mongodb,postgresql" width="100%">
   
   <br/>
   
-  
- <img align="left" width="50" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" />
-<h2 font-weight="bold"> All of My Skills</h2>
 
-<h4>⚡ Programming Languages</h4>
+<h3 font-weight="bold">📜 All of Skills</h3>
+
+<h4>👩‍💻 Programming Languages</h4>
   <p align="left">
   <img height='25em' src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img height='25em' src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -67,7 +69,7 @@ Together, let's shape a digital landscape that radiates with wonder and awe!
   <img height='25em' src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" />
  </p>
 
-<h4>⚡ Frontend Development</h4>
+<h4>🥇 Frontend Development</h4>
   <p align="left">
     <img height='25em' src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img height='25em' src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -90,7 +92,7 @@ Together, let's shape a digital landscape that radiates with wonder and awe!
     <img height='25em' src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
   </p>
 
-<h4>⚡ Backend Development</h4>
+<h4>🥈 Backend Development</h4>
   <p align="left">
     <img height='25em' src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
     <img height='25em' src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -109,7 +111,7 @@ Together, let's shape a digital landscape that radiates with wonder and awe!
     <img height='25em' src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
   </p>  
   
-<h4>⚡ Other</h4>  
+<h4>🥉 Other</h4>  
   <p align="left">
     <img height='25em' src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     <img height='25em' src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
