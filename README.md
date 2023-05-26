@@ -5,7 +5,7 @@
 <h2 align="center" font-weight="bold">
 🌟✨ Welcome to the realm of digital enchantment! ✨🌟 <br/> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">I am Sky Captainess, a masterful sorcerer of frontend magic and full stack alchemy. Prepare to be spellbound as we embark on an extraordinary journey through the realms of web development! 
 </h2>
-  <h2>🧙‍♀️ About Me</h2>
+  <h1>🧙‍♀️ About Me</h1>
 <img align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
 <p>
 With a wave of my code-infused wand, I breathe life into captivating user interfaces, conjuring immersive experiences that transcend the ordinary. As a maestro of frontend sorcery, I command the languages of HTML, CSS, and JavaScript with virtuosity, while harnessing the enchanting powers of React, Vue, Angular, Tailwind, Sass, Typescript and more.
@@ -43,10 +43,11 @@ Together, let's shape a digital landscape that radiates with wonder and awe!
   <br/>
   
 
+<h1 font-weight="bold"> My Skills
 <img align="left" width="50" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" />
-<h2 font-weight="bold"> My Skills</h2>
+</h1>
 
-<h3 font-weight="bold">🏅💪 Strengths Skills</h3>
+<h3 font-weight="bold">🏅 Strengths Skills 💪</h3>
 <img src="https://skillicons.dev/icons?i=react,next,vue,angular,tailwind,figma,sass,materialui,ai,photoshop" width="100%">
 <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,php,androidstudio,redux,laravel,mysql,mongodb,postgresql" width="100%">
   
@@ -133,7 +134,7 @@ Together, let's shape a digital landscape that radiates with wonder and awe!
 <br/>
 
 
-<h2 font-weight="bold">📊 My Github Stats 🏆</h2>
+<h1 font-weight="bold">📊 My Github Stats 🏆</h1>
 
 <div align='center'>
   <img alt="stats" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyCaptainess&layout=compact&langs_count=7&theme=dark">
@@ -173,10 +174,10 @@ Together, let's shape a digital landscape that radiates with wonder and awe!
   
  
 
-<h2 font-weight="bold">
+<h1 font-weight="bold">
   📮 How to reach me
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" />
-</h2>
+</h1>
 
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andychris9474@gmail.com)
 [![image](https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/)
