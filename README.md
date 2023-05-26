@@ -52,7 +52,7 @@ Together, let's shape a digital landscape that radiates with wonder and awe!
   <br/>
   
 
-<h2 font-weight="bold">📜 All of Skills ⚔️</h2>
+<h2 font-weight="bold">📜 All of My Skills ⚔️</h2>
 
 <h3>👉 Programming Languages 👩‍💻</h3>
   <p align="center">
