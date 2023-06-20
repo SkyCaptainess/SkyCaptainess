@@ -194,7 +194,9 @@ Together, let's shape a digital landscape that radiates with wonder and awe!
   <a href="https://www.linkedin.com/in/andrew-christopher-b25574258/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  [![Twitter Follow](https://img.shields.io/twitter/follow/AndyChris9474?style=social)](https://twitter.com/AndyChris9474)
+  <a href="https://twitter.com/AndyChris9474">
+    <img src="https://img.shields.io/twitter/follow/AndyChris9474?style=social" alt="LinkedIn">
+  </a>
 
 </p>
  
