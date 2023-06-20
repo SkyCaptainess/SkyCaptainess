@@ -188,7 +188,7 @@ Together, let's shape a digital landscape that radiates with wonder and awe!
   <a href="https://t.me/SkyCaptainess">
     <img src="https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="https://discord.com/users/1027321449784029214">
+  <a href="https://discordapp.com/users/SkyCaptainess#2187">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
   <a href="https://www.linkedin.com/in/andrew-christopher-b25574258/">
