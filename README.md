@@ -195,7 +195,7 @@ Together, let's shape a digital landscape that radiates with wonder and awe!
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/AndyChris9474">
-    <img src="https://img.shields.io/twitter/follow/AndyChris9474?style=social" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="LinkedIn">
   </a>
 
 </p>
