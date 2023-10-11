@@ -191,11 +191,11 @@ Together, let's shape a digital landscape that radiates with wonder and awe!
   <a href="https://discordapp.com/users/SkyCaptainess#2187">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-  <a href="https://www.linkedin.com/in/andrew-christopher-b25574258/">
+  <a href="https://www.linkedin.com/in/andrew-christopher/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/AndyChris9474">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
   </a>
 
 </p>
